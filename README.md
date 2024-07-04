@@ -1,18 +1,18 @@
-# New Concrete Compressive Strength Prediction
+# Concrete Compressive Strength Prediction
 
 This project predicts the compressive strength of concrete using machine learning techniques.
 
 ## Project Structure
 
 ```
-your-repo-name/
+Concrete_compressive_strength_prediction_a_ML_approach/
 │
 ├── data/
 │   ├── raw/
-│   └── processed/
+│   
 │
 ├── notebooks/
-│   └── New concrete compressive strength prediction.ipynb
+│   └── concrete compressive strength prediction.ipynb
 │
 ├── src/
 │   ├── __init__.py
@@ -28,8 +28,8 @@ your-repo-name/
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/Bibaskhkural/Concrete_compressive_strength_prediction_a_ML_approach.git
+    cd Concrete_compressive_strength_prediction_a_ML_approach
     ```
 
 2. Create a virtual environment:
